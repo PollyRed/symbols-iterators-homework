@@ -1,2 +1,3 @@
-import './js/reader';
-import './js/parser';
+import './js/Person';
+import './js/Team';
+import './css/style.css';
